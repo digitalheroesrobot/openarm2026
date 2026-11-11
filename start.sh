@@ -1,0 +1,1 @@
+.venv/bin/python simulation/scripts/view_openarm_home_pose.py
